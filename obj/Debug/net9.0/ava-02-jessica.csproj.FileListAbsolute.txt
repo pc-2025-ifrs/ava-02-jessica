@@ -1,0 +1,15 @@
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\bin\Debug\net9.0\ava-02-jessica.exe
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\bin\Debug\net9.0\ava-02-jessica.deps.json
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\bin\Debug\net9.0\ava-02-jessica.runtimeconfig.json
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\bin\Debug\net9.0\ava-02-jessica.dll
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\bin\Debug\net9.0\ava-02-jessica.pdb
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.AssemblyInfoInputs.cache
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.AssemblyInfo.cs
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.csproj.CoreCompileInputs.cache
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.sourcelink.json
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.dll
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\refint\ava-02-jessica.dll
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.pdb
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ava-02-jessica.genruntimeconfig.cache
+C:\Users\jehvi\OneDrive\Documentos\Programação\Repositórios\ava-02-jessica\obj\Debug\net9.0\ref\ava-02-jessica.dll
